@@ -1,7 +1,8 @@
 # NodeMCU-RFID-Door-Lock
-RFID Door lock using esp8266 with solenoid lock
+RFID Door lock using esp8266 with solenoid lock and relay module.
 
 ![Demonstration](Demonstration.jpg)
+
 
 ------------------------------------------------
 # Parts Used:
