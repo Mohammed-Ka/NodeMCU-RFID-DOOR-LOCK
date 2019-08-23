@@ -27,3 +27,6 @@ Parts Used:
 • Jumper Cables 
 ----------------------------
 
+#Schematic:
+
+![Schematic](Schematic.jpg)
