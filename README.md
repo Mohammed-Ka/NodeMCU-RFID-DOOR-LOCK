@@ -2,7 +2,7 @@
 RFID Door lock using esp8266 with solenoid lock
 
 ------------------------------------------------
-Parts Used:
+# Parts Used:
 -----------
 • NodeMCU v3 Lolin ESP8266 IoT
 • NodeMcu ESP8266 Base Plate
@@ -17,7 +17,7 @@ Parts Used:
 • Jumper Cables 
 
 
-#Schematic:
+# Schematic:
 ------------
 
 ![Schematic](Schematic.jpg)
