@@ -66,4 +66,7 @@ Solenoid Lock:
 • Relay (NO) pin = +12V Power Supply
 • Relay (COM) pin = +12v Solenoid Lock
 
+Demonstration:
+---------------
 
+![](Demonstration.gif)
